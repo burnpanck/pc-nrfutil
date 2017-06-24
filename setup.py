@@ -140,4 +140,5 @@ setup(
         "script": "./nordicsemi/__main__.py",
         "dest_base": "nrfutil"
     }],
+    use_2to3=True,
 )
